@@ -6,8 +6,8 @@ It was done entirely in Jupyter Notebook using Pandas, Bokeh, Geopy and Google M
 
 Data obtained from: Austin Animal Center via Daoud, J. (2021). Animal Shelter Analytics. Kaggle. https://www.kaggle.com/datasets/jackdaoud/animal-shelter-analytics
 
-#**Do you want to run this project or make a similar one? Here is everything you need to download:**
-from dotenv import load_dotenv
+**Do you want to run this project or make a similar one? Here is everything you need to download:**
+* from dotenv import load_dotenv
 * pandas
 * bokeh 
   - from bokeh.io import output_notebook, show
@@ -20,5 +20,5 @@ from dotenv import load_dotenv
   - geopy.distance
 * googlemaps
 
-#**Want to read more about this project?**
-Check out my [medium article](https://medium.com/@marciapedrozajv/austin-animal-shelter-data-interactive-map-of-intakes-from-2013-to-2020-e2ecb8f18e18) about it!  
+**Want to read more about this project?**
+Check out my [medium article](https://medium.com/@marciapedrozajv/austin-animal-shelter-data-interactive-map-of-intakes-from-2013-to-2020-e2ecb8f18e18)!  
